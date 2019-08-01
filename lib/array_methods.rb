@@ -1,5 +1,5 @@
 def find_element_index(array, value_to_find)
-   
+   return array.
    if array.include?(value_to_find) 
      return 
    end 
